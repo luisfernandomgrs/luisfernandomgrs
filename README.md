@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi There, I'm Luís Fernando
 
+### About me:
+- My training is in  Téc. Processamento de Dados, in 1996 at FEPI - Fundação de Ensino e Pesquisa de Itajubá - MG / Brazil
+- I'm developer full time in C++  
+- I'm learning MySQL, AWS and Node.Js...
+
+[![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/luis-fernando-m-04781)
 <!--
 **luisfernandomgrs/luisfernandomgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
