@@ -13,7 +13,7 @@ const WhoAmI = {
   ],
   aboutMe: {
     myTrainingIsIn: [
-      "Téc. Processamento de Dados",
+      "Tech. Data processing",
       "in 1996 at FEPI - Fundação de Ensino e Pesquisa de Itajubá - MG / Brazil"
     ],
     developerAt: "Full time in C++",
