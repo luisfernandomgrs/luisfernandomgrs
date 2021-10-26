@@ -35,6 +35,9 @@ function Ambitions() {
   JobRemoteOutherCountries();
 }
 ```
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandomgrs&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 # Languages and Tools:
 ![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png)![image](https://user-images.githubusercontent.com/72364037/138801304-ca52194b-394e-47e1-8038-0c9a4f463a72.png)
