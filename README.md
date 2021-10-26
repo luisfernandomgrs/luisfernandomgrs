@@ -50,6 +50,8 @@ function Ambitions() {
 <!--
 **luisfernandomgrs/luisfernandomgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Icons from: https://icons8.com/icons/set/aws
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
