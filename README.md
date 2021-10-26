@@ -17,15 +17,15 @@ const WhoAmI = {
       "in 1996 at FEPI - Fundação de Ensino e Pesquisa de Itajubá - MG / Brazil"
     ],
     developerAt: "Full time in C++",
-
-  hobbies: [
-    "Studying",
-    "Learn english",
-    "Learning about universe Node.Js",
-    "Cycling Road"
-  ]
+    myFocus: "Backend, in Node.JS"
+    hobbies: [
+      "Studying",
+      "Learn english",
+      "Learning about universe Node.Js",
+      "Cycling Road"
+    ]    
+  }
 }
-
 function getCurrentCity() {
   return Santiago_RS_Brazil;
 }
