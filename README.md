@@ -37,7 +37,7 @@ function Ambitions() {
 ```
 
 # Languages and Tools:
-![image](https://user-images.githubusercontent.com/72364037/138800478-c0b20a21-3fd6-46cd-b860-d5ee0f736bfe.png)
+![image](https://user-images.githubusercontent.com/72364037/138800478-c0b20a21-3fd6-46cd-b860-d5ee0f736bfe.png)![image](https://user-images.githubusercontent.com/72364037/138800636-a7886b0a-56c8-4808-af1a-5fcfe36b82c2.png)
 
 [![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/luis-fernando-m-04781)<spacer type="horizontal" width="100" height="100"> 📎 </spacer>[![My LinkedIn](https://img.shields.io/badge/JOB's-LinkedIn-informational)](https://www.linkedin.com/in/luis-fernando-machado-1472aa1b9/)
 <!--
