@@ -26,6 +26,7 @@ const WhoAmI = {
     ]    
   }
 }
+
 function getCurrentCity() {
   return Santiago_RS_Brazil;
 }
