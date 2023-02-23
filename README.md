@@ -42,8 +42,11 @@ function Ambitions() {
 </div>
 
 # Languages and Tools:
-![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png) ![logoJava fw](https://user-images.githubusercontent.com/72364037/154889952-4bc8052d-e21c-4128-a39f-604e37380112.png) ![image](https://user-images.githubusercontent.com/72364037/138801304-ca52194b-394e-47e1-8038-0c9a4f463a72.png)
-![image](https://user-images.githubusercontent.com/72364037/138800478-c0b20a21-3fd6-46cd-b860-d5ee0f736bfe.png)![image](https://user-images.githubusercontent.com/72364037/138800636-a7886b0a-56c8-4808-af1a-5fcfe36b82c2.png)![image](https://user-images.githubusercontent.com/72364037/138800969-757592b2-d69a-4f7b-9429-0fb91cd4022d.png)
+![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png)
+![logoJava fw](https://user-images.githubusercontent.com/72364037/154889952-4bc8052d-e21c-4128-a39f-604e37380112.png) 
+![image](https://user-images.githubusercontent.com/72364037/138800478-c0b20a21-3fd6-46cd-b860-d5ee0f736bfe.png)
+![image](https://user-images.githubusercontent.com/72364037/138800636-a7886b0a-56c8-4808-af1a-5fcfe36b82c2.png)
+![image](https://user-images.githubusercontent.com/72364037/138800969-757592b2-d69a-4f7b-9429-0fb91cd4022d.png)
 
 [![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/luis-fernando-m-04781)<spacer type="horizontal" width="100" height="100"> 📎 </spacer>[![My LinkedIn](https://img.shields.io/badge/JOB's-LinkedIn-informational)](https://www.linkedin.com/in/luis-fernando-machado-1472aa1b9/)
 
