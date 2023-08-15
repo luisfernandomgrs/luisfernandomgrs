@@ -7,9 +7,10 @@ const WhoAmI = {
   birthday: "Dez/1976",
   from: "Itajubá, MG - Brazil",
   current_edu: [
-    "Rocketseat",
-    "AWS - Cloud Treinamentos", 
-    "MySQL - HCode",
+    "C++",
+    "Java",
+    "Android, Java",
+    "Linux",
   ],
   aboutMe: {
     myTrainingIsIn: [
@@ -17,11 +18,10 @@ const WhoAmI = {
       "in 1996 at FEPI - Fundação de Ensino e Pesquisa de Itajubá - MG / Brazil"
     ],
     developerAt: "Full time in C++",
-    myFocus: "Backend, in Node.JS"
+    myFocus: "Backend, in Java"
     hobbies: [
       "Studying",
       "Learn english",
-      "Learning about universe Node.Js",
       "Cycling Road"
     ]    
   }
