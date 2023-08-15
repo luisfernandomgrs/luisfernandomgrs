@@ -42,11 +42,10 @@ function Ambitions() {
 </div>
 
 # Languages and Tools:
-<img ![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png) alt="drawing" width="200"/>
+
 ![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png)
 ![logoJava fw](https://user-images.githubusercontent.com/72364037/154889952-4bc8052d-e21c-4128-a39f-604e37380112.png) 
-![image](https://github.com/luisfernandomgrs/luisfernandomgrs/assets/72364037/eb874f6d-6a82-44ae-aaa7-c35b729c2680)
-
+![image](https://github.com/luisfernandomgrs/luisfernandomgrs/assets/72364037/f4d51bb1-6363-40ee-85bb-f98897c062f6)
 
 
 
