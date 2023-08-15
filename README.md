@@ -44,7 +44,8 @@ function Ambitions() {
 # Languages and Tools:
 ![image](https://user-images.githubusercontent.com/72364037/138801196-7d8d12bc-af5c-4481-a886-dd2136c479bd.png)
 ![logoJava fw](https://user-images.githubusercontent.com/72364037/154889952-4bc8052d-e21c-4128-a39f-604e37380112.png) 
-![image](https://github.com/luisfernandomgrs/luisfernandomgrs/assets/72364037/99f28eba-4e90-473d-bfa2-f99e908149f2)
+![image](https://github.com/luisfernandomgrs/luisfernandomgrs/assets/72364037/2fb6c304-3805-46a9-a24e-75d586630db1)
+
 
 
 [![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/luis-fernando-m-04781)<spacer type="horizontal" width="100" height="100"> 📎 </spacer>[![My LinkedIn](https://img.shields.io/badge/JOB's-LinkedIn-informational)](https://www.linkedin.com/in/luis-fernando-machado-1472aa1b9/)
