@@ -48,7 +48,7 @@ function Ambitions() {
 ![image](https://github.com/luisfernandomgrs/luisfernandomgrs/assets/72364037/f4d51bb1-6363-40ee-85bb-f98897c062f6)
 
 
-[My LinkedIn](https://img.shields.io/badge/JOB's-LinkedIn-informational)](https://www.linkedin.com/in/luis-fernando-machado-1472aa1b9/)
+[![My LinkedIn](https://img.shields.io/badge/JOB's-LinkedIn-informational)](https://www.linkedin.com/in/luis-fernando-machado-1472aa1b9/)
 
 <!--
 **luisfernandomgrs/luisfernandomgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
